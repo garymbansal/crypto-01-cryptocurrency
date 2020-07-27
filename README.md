@@ -8,6 +8,7 @@
 - [VS Code](https://code.visualstudio.com/)
 - [Solidity](https://solidity.readthedocs.io/en/v0.6.12/)
 - [Remix](https://remix.ethereum.org/)
+- [Metamask](https://metamask.io/)
 
 ##### To try these samples, download code & open it in VS Code.
 ##### Now, open the code folder location in command prompt or open terminal in VS Code & run following command:
