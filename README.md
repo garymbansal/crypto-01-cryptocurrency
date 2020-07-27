@@ -6,6 +6,8 @@
 #### Before going through the code, install Node.js & Visual Studio Code on your machine from below links:
 - [Node.js](https://nodejs.org/en/)
 - [VS Code](https://code.visualstudio.com/)
+- [Solidity](https://solidity.readthedocs.io/en/v0.6.12/)
+- [Remix] (https://remix.ethereum.org/)
 
 ##### To try these samples, download code & open it in VS Code.
 ##### Now, open the code folder location in command prompt or open terminal in VS Code & run following command:
