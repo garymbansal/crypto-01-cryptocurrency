@@ -1,0 +1,4 @@
+Token -- name, symbol, totalsupply, decimalpoints : 10
+         features or capabilities
+         -- Transfer
+         --Burn
