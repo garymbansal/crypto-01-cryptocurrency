@@ -13,7 +13,7 @@ contract TokenERC20 {
     //Initial Total Supply
     uint256 public totalSupply;
     //Length of decimal support
-    uint8 public decimals = 10;
+    uint8 public decimals;
 
 //Events
 event Transfer(address indexed from, address indexed to, uint256 value);
@@ -23,11 +23,13 @@ mapping(address => uint256 ) public balanceOf;
 mapping(address => mapping(address => uint256)) public allowance;
 
 //Implemnetation
-constructor(uint256 initialSupply, string memory tokenName, string memory tokenSymbol) public {
+constructor(string memory tokenName, string memory tokenSymbol, uint256 initialSupply, uint8 allowdecimals) public {
     name = tokenName;
     symbol = tokenSymbol;
+    decimals = allowdecimals;
     totalSupply = initialSupply;
     balanceOf[msg.sender] = totalSupply;
+    
 }
 
 //Transfer process**********************************************************************************************
