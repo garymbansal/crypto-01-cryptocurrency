@@ -18,4 +18,8 @@ npm install
 ##### As each sample consists of `package.json` file that will help to download all the dependencies (packages) required to run these samples.
 
 
-#### Please feel free to share your queries, suggestions here or on my email - gauravmohanbansal@gmail.com
+#### Please feel free to share your queries, suggestions here or on :
+   ##### Email    gauravmohanbansal@gmail.com
+   ##### LinkedIn https://www.linkedin.com/in/gauravmohanbansal/
+   ##### Skype    ```gaurav.mohan.bansal```
+   ##### Project  info@nugatebantech.com
